@@ -1,6 +1,5 @@
 # Work Day Scheduler
 
-
 ## Table of Contents
 
 * [Description](#description)
