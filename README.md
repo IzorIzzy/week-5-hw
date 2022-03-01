@@ -14,6 +14,8 @@
 
 A UI that allows users to save events for each hour of the day. 
 
+https://izorizzy.github.io/week-5-hw/
+
 ## Usage
 
 Go to the repository and clone it to the directory that you would like to have it in. Open the index.html in the default browser and run the application!
