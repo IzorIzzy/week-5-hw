@@ -1,5 +1,6 @@
 # Work Day Scheduler
-![Screenshot (18)](https://user-images.githubusercontent.com/93059565/159491984-cb692deb-347f-4f4d-a734-a5725819dd2c.png)
+![WorkDaypic](https://user-images.githubusercontent.com/93059565/159521737-85540665-ce38-4b04-9ed9-1f71579d88eb.png)
+
 ## Table of Contents
 
 * [Description](#description)
